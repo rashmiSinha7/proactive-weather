@@ -7,6 +7,7 @@ function Search(props) {
 
   return (
     <div className="search">
+      <h3>Weather App</h3>
       <form onSubmit={(e) => {
           e.preventDefault()
           searchHandle && searchHandle();
