@@ -9,6 +9,7 @@ body {
   font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
   color: black;
   background-size: cover;
+  text-shadow: 3px 2px 5px  #ffffff;
 }
 
 @media only screen and (max-width: 600px) {
