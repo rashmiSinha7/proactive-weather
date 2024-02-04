@@ -14,7 +14,9 @@ input{
 }
 
 input::placeholder{
-    color: aqua;
+    color: white;
+    opacity: 0.4;
+    font-size: 18px;
 }
 
 button{

@@ -14,6 +14,7 @@ function Search(props) {
       <input
         type="text"
         id="searchbox"
+        placeholder="Weather Forecast Location"
         value={inputLocation}
         onChange={(e) => {
           inputLocationHandle && inputLocationHandle(e.target.value);
