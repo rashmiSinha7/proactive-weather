@@ -1,9 +1,9 @@
 .forecast{
     margin-top: 20px;
-  margin-left: 12.5%;
+  margin-left: 5%;
   background: rgba(255, 255, 255, 0.5);
   height: max-content;
-  width: 75%;
+  width: 90%;
   border: solid rgba(255, 255, 255, 0.5) 2px;
   border-radius: 25px;
   display: flex;
