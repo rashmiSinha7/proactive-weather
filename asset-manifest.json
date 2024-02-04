@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/proactive-weather/static/css/main.939c5af0.css",
+    "main.js": "/proactive-weather/static/js/main.6f60da7f.js",
+    "static/js/592.f4943691.chunk.js": "/proactive-weather/static/js/592.f4943691.chunk.js",
+    "static/media/partially-cloudy-night.jpg": "/proactive-weather/static/media/partially-cloudy-night.f94d72fb595585fd6a18.jpg",
+    "static/media/rain-night.jpg": "/proactive-weather/static/media/rain-night.d1c4cc4124326ebe6615.jpg",
+    "static/media/partly-cloudy-day.jpg": "/proactive-weather/static/media/partly-cloudy-day.0dafc304b10464f841d5.jpg",
+    "static/media/cloudy-night.jpg": "/proactive-weather/static/media/cloudy-night.d0725ff9927060a0bec1.jpg",
+    "static/media/clear-night.jpg": "/proactive-weather/static/media/clear-night.a2dd94fc71faa3ff7c51.jpg",
+    "static/media/clear-day.jpg": "/proactive-weather/static/media/clear-day.b0c69e7555bd9ff5fcd8.jpg",
+    "static/media/cloudy-day.jpg": "/proactive-weather/static/media/cloudy-day.204d09c0e3708b92b71f.jpg",
+    "static/media/cloudy-night.png": "/proactive-weather/static/media/cloudy-night.9812ce254d780d8ecf38.png",
+    "static/media/rain-night.png": "/proactive-weather/static/media/rain-night.e235b35b34996ff65c1f.png",
+    "static/media/rain-day.png": "/proactive-weather/static/media/rain-day.fea62e3beeb0049f5768.png",
+    "static/media/clear-night.png": "/proactive-weather/static/media/clear-night.8129ab9835404e1ce67b.png",
+    "static/media/cloudy-day.png": "/proactive-weather/static/media/cloudy-day.76b4ea9c61f0be2a608a.png",
+    "static/media/sun.png": "/proactive-weather/static/media/sun.3c891107df9c87318dde.png",
+    "index.html": "/proactive-weather/index.html",
+    "main.939c5af0.css.map": "/proactive-weather/static/css/main.939c5af0.css.map",
+    "main.6f60da7f.js.map": "/proactive-weather/static/js/main.6f60da7f.js.map",
+    "592.f4943691.chunk.js.map": "/proactive-weather/static/js/592.f4943691.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.939c5af0.css",
+    "static/js/main.6f60da7f.js"
+  ]
+}
