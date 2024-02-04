@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/proactive-weather/static/css/main.445db4fa.css",
+    "main.css": "/proactive-weather/static/css/main.b1216f51.css",
     "main.js": "/proactive-weather/static/js/main.c49bd99b.js",
     "static/js/592.f4943691.chunk.js": "/proactive-weather/static/js/592.f4943691.chunk.js",
     "static/media/partially-cloudy-night.jpg": "/proactive-weather/static/media/partially-cloudy-night.f94d72fb595585fd6a18.jpg",
@@ -17,12 +17,12 @@
     "static/media/cloudy-day.png": "/proactive-weather/static/media/cloudy-day.76b4ea9c61f0be2a608a.png",
     "static/media/sun.png": "/proactive-weather/static/media/sun.3c891107df9c87318dde.png",
     "index.html": "/proactive-weather/index.html",
-    "main.445db4fa.css.map": "/proactive-weather/static/css/main.445db4fa.css.map",
+    "main.b1216f51.css.map": "/proactive-weather/static/css/main.b1216f51.css.map",
     "main.c49bd99b.js.map": "/proactive-weather/static/js/main.c49bd99b.js.map",
     "592.f4943691.chunk.js.map": "/proactive-weather/static/js/592.f4943691.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.445db4fa.css",
+    "static/css/main.b1216f51.css",
     "static/js/main.c49bd99b.js"
   ]
 }
